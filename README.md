@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=soanguy)
+![](https://github-readme-stats.vercel.app/api?username=soanguy)  [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=soanguy)](https://github.com/IceEnd)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soanguy&layout=compact)
 
