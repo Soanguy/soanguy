@@ -76,5 +76,17 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Soanguy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=24608949" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=24608949&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Soanguy" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=24608949&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with OSS Insight -->
+
+<!--  <img src="https://streak-stats.demolab.com?user=Soanguy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
+
 </div>
