@@ -29,9 +29,15 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=soanguy)  [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=soanguy)](https://github.com/IceEnd)
+<table><tr><td valign="top" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soanguy&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=soanguy) 
+
+</td><td valign="top" width="50%">
+
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=soanguy)](https://github.com/IceEnd)
+
+</td></tr></table>  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soanguy/Soanguy/output/github-contribution-grid-snake-dark.svg">
@@ -42,6 +48,8 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soanguy&layout=compact)
 
 ###
 
